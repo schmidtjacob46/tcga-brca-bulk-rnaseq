@@ -1,0 +1,38 @@
+# -------------------------
+# Large TCGA data
+# -------------------------
+tcga_brca_counts.csv
+tcga_brca_tumor_vst_expression.csv
+*.rds
+
+# -------------------------
+# GDC downloads
+# -------------------------
+gdc_download_*/
+*.tar.gz
+
+# GDC metadata (regeneratable)
+gdc_sample_sheet*.tsv
+metadata.cart*.json
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+
+# -------------------------
+# macOS
+# -------------------------
+.DS_Store
+
+# Large count matrices
+tcga_brca_raw_unstranded_counts_sample_level.csv
+
+# Raw GDC STAR Count downloads
+data/raw/star_counts/

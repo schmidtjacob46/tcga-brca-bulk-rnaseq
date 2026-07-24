@@ -1,0 +1,5 @@
+"threshold","n_genes"
+"padj < 0.1",22865
+"padj < 0.05",21900
+"padj < 0.05 and abs(log2FC) > 1",7609
+"padj < 0.05 and abs(log2FC) > 2",2598
