@@ -166,24 +166,13 @@ For one tumor per patient:
 
 ### Differential Expression
 
-
-with:
-
-```markdown
 ![Volcano plot showing paired tumor-versus-normal differential expression](results/figures/tcga_brca_paired_tumor_vs_normal_volcano.png)
-
-```
-
 
 ---
 
 ### Tumor Signature Analysis
 
-
-
-```markdown
 ![CAF and cytotoxic signature scores across PAM50 subtypes](results/figures/tcga_brca_pam50_signature_analysis.png)
-```
 
 ---
 
